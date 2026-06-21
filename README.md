@@ -74,3 +74,5 @@ At a family-run **plastic-packaging manufacturer**, I:
 </p>
 
 <p align="center"><sub>Most of my work lives in private/client repos — the public ones are a sample.</sub></p>
+
+<!-- profile readme -->
