@@ -66,13 +66,4 @@ At a family-run **plastic-packaging manufacturer**, I:
 
 ---
 
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=r3vs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3vs&layout=compact&hide_border=true&theme=tokyonight" height="160">
-</p>
-
-<p align="center"><sub>Most of my work lives in private/client repos — the public ones are a sample.</sub></p>
-
-<!-- profile readme -->
+<p align="center"><sub>Most of my work lives in private &amp; client repositories — the public repos here are just a sample.</sub></p>
