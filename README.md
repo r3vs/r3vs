@@ -26,17 +26,6 @@ I learned this the hard way: as the in-house engineer at a manufacturing SME, I 
 
 > 💼 **Open to consulting** — AI automation, ERP migration & internal tooling for SMEs.
 
----
-
-### 🚀 Featured project — VibraFlow
-
-**A goal-first control plane for AI-native work.** Supervised execution, governed memory, durable decisions, measurable autonomy — the operating layer that sits *above* AI agents and keeps them safe to build on. Polyglot by design: TypeScript backend/frontend, Python (Graphiti/FastAPI) and Rust services, Postgres + Redis + a graph store.
-
-<!-- → repo link once public: https://github.com/r3vs/vibraflow -->
-
-I built it to run my own work — then realized the missing layer it solves for is missing *everywhere*.
-
----
 
 ### 🏭 Real-world impact
 
