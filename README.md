@@ -33,7 +33,7 @@ At a family-run **plastic-packaging manufacturer**, I:
 
 - 🤖 Built and deployed **AI-agent automations** for day-to-day operations
 - 🌱 Shipped an **LCA app** (Life-Cycle Assessment) to measure the environmental impact of products
-- 🗄️ Am leading a migration off a **20-year-old Access semi-ERP** to a customized **ERPNext** platform
+- 🗄️ Am leading a migration off a **20-year-old Access semi-ERP** to a customized **ERP** platform
 
 ---
 
@@ -48,7 +48,6 @@ At a family-run **plastic-packaging manufacturer**, I:
   <img src="https://img.shields.io/badge/Node.js-5fa04e?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/ERPNext-0089ff?style=flat-square&logo=frappe&logoColor=white">
 </p>
 
 **Focus areas:** LLM agents & multi-agent orchestration · AI-native developer tooling · ERP & business-process automation · data integration.
